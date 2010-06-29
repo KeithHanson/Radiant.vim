@@ -18,6 +18,7 @@ How do I use it?
 For example:
 
 :Radiant edit layouts/main
+
 :Radiant vsplit pages/home
 
 Calling :w will write the content back out to your database.
