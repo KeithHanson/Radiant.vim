@@ -3,7 +3,7 @@ What is this?
 
 This is a Vim plugin used to edit RadiantCMS content directly in vim, instead of constantly hopping back and forth between your browser tabs.
 
-For those of us that do lots of RadiantCMS blogs, you quickly tire of not being able to edit the content in your favorite editor.
+For those of us that do lots of RadiantCMS installs, you quickly tire of not being able to edit the content in your favorite editor.
 
 How do I set it up?
 ===================
