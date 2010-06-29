@@ -101,8 +101,8 @@ def WriteFile(f)
                         VIM::command('set nomodified')
     else
       return
-        end
-    ResponseCache.instance.clear
+    end
+    #ResponseCache.instance.clear
 
 end
 
